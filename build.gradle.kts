@@ -18,7 +18,7 @@ kotlin {
                 implementation("org.jetbrains.kotlin-wrappers:kotlin-extensions")
                 implementation("org.jetbrains.kotlin-wrappers:kotlin-react-dom")
                 implementation("org.jetbrains.kotlin-wrappers:kotlin-react-router-dom")
-                implementation("com.sanyavertolet.kotlinjspreview:core:0.1.0-SNAPSHOT")
+                implementation("com.sanyavertolet.kotlinjspreview:core:0.1.1")
             }
         }
     }
